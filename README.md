@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [I have done my web development internship with Bharat intern.](I have done my web development internship with Bharat intern.)
 
-- ⚡ Fun fact **I think I Like to Learn new things every minute ! <img src="https://github.com/sashank-sai/sashank-sai/assets/144649279/413de8bd-513a-4aaf-91e6-78c2e2196e8f"  width="40" height="40"/> **
+- ⚡ Fun fact **I think I Like to Learn new things every minute !** <img src="https://github.com/sashank-sai/sashank-sai/assets/144649279/413de8bd-513a-4aaf-91e6-78c2e2196e8f"  width="40" height="40"/> 
 
 
 <h3 align="left">Connect with me:</h3>
